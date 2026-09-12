@@ -40,7 +40,7 @@ During exploratory testing, I identified 7 issues with different levels of impac
 
 ## Bug Reports
 
-* [BUG-001 — App crash on 17-digit price input](./bug-reports/BUG-001.md)
+* [BUG-001 — App crash after 17-digit price input in Price field (https://github.com/atarapygina/mobile-testing-portfolio/issues/1)
 * [BUG-002 — Price calculation discrepancy](./bug-reports/BUG-002.md)
 * [BUG-003 — Search data remains visible after logout](./bug-reports/BUG-003.md)
 * [BUG-004 — OLX Delivery enabled after editing an ad](./bug-reports/BUG-004.md)
