@@ -31,7 +31,7 @@ During exploratory testing, I identified 7 issues with different levels of impac
 | ID      | Issue                                                                                 | Type                       | Severity |
 | ------- | ------------------------------------------------------------------------------------- | -------------------------- | -------- |
 | BUG-001 | Application crashes when entering a 17-digit price                                    | Stability / Validation     | High     |
-| BUG-002 | Price changes from 20 to 19.99 but is displayed as 19.98                              | Data accuracy              | Medium   |
+| BUG-002 | Incorrect price is displayed after the buyer suggests a price of 19.99                | Data accuracy              | Medium   |
 | BUG-003 | Previous search data remains visible after logout                                     | Privacy / Data persistence | Medium   |
 | BUG-004 | OLX Delivery is automatically enabled after editing an ad                             | UX / Business logic        | Medium   |
 | BUG-005 | "Cancel" redirects to an empty ad creation page after the ad has already been created | Navigation / UX            | Medium   |
@@ -40,8 +40,8 @@ During exploratory testing, I identified 7 issues with different levels of impac
 
 ## Bug Reports
 
-* [BUG-001 — App crash after 17-digit price input in Price field (https://github.com/atarapygina/mobile-testing-portfolio/issues/1)
-* [BUG-002 — Price calculation discrepancy](./bug-reports/BUG-002.md)
+* BUG-001 — App crash after 17-digit price input in Price field (https://github.com/atarapygina/mobile-testing-portfolio/issues/1)
+* BUG-002 — Price calculation discrepancy (https://github.com/atarapygina/mobile-testing-portfolio/issues/2)
 * [BUG-003 — Search data remains visible after logout](./bug-reports/BUG-003.md)
 * [BUG-004 — OLX Delivery enabled after editing an ad](./bug-reports/BUG-004.md)
 * [BUG-005 — Incorrect navigation after cancelling ad creation](./bug-reports/BUG-005.md)
