@@ -40,9 +40,9 @@ During exploratory testing, I identified 7 issues with different levels of impac
 
 ## Bug Reports
 
-* BUG-001 — App crash after 17-digit price input in Price field (https://github.com/atarapygina/mobile-testing-portfolio/issues/1)
-* BUG-002 — Price calculation discrepancy (https://github.com/atarapygina/mobile-testing-portfolio/issues/2)
-* https://github.com/atarapygina/mobile-testing-portfolio/issues/3
+* [BUG-001 — App crash after 17-digit price input in Price field] (https://github.com/atarapygina/mobile-testing-portfolio/issues/1)
+* [BUG-002 — Price calculation discrepancy] (https://github.com/atarapygina/mobile-testing-portfolio/issues/2)
+* [BUG-003: Previous search data remains visible after logout](https://github.com/atarapygina/mobile-testing-portfolio/issues/3)
 * [BUG-004 — OLX Delivery enabled after editing an ad](./bug-reports/BUG-004.md)
 * [BUG-005 — Incorrect navigation after cancelling ad creation](./bug-reports/BUG-005.md)
 * [BUG-006 — Confusing logout confirmation flow](./bug-reports/BUG-006.md)
